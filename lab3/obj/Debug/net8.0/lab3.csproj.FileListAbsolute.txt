@@ -1,0 +1,15 @@
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\bin\Debug\net8.0\lab3.exe
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\bin\Debug\net8.0\lab3.deps.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\bin\Debug\net8.0\lab3.runtimeconfig.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\bin\Debug\net8.0\lab3.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\bin\Debug\net8.0\lab3.pdb
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.AssemblyInfoInputs.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.AssemblyInfo.cs
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.sourcelink.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\refint\lab3.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.pdb
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\lab3.genruntimeconfig.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab3\obj\Debug\net8.0\ref\lab3.dll
