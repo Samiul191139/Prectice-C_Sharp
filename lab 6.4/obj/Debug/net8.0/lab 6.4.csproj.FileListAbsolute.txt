@@ -1,0 +1,15 @@
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\bin\Debug\net8.0\lab 6.4.exe
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\bin\Debug\net8.0\lab 6.4.deps.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\bin\Debug\net8.0\lab 6.4.runtimeconfig.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\bin\Debug\net8.0\lab 6.4.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\bin\Debug\net8.0\lab 6.4.pdb
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.AssemblyInfoInputs.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.AssemblyInfo.cs
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.csproj.CoreCompileInputs.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.sourcelink.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\refint\lab 6.4.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.pdb
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\lab 6.4.genruntimeconfig.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\lab 6.4\obj\Debug\net8.0\ref\lab 6.4.dll
