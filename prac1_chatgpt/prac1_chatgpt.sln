@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac1_chatgpt", "prac1_chatgpt.csproj", "{7E098B4E-FA42-4750-8701-D5A38291B0EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac2_chatgpt", "..\prac2_chatgpt\prac2_chatgpt.csproj", "{497A442B-932F-4CA7-8B65-32B4CB70AF34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7E098B4E-FA42-4750-8701-D5A38291B0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E098B4E-FA42-4750-8701-D5A38291B0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E098B4E-FA42-4750-8701-D5A38291B0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497A442B-932F-4CA7-8B65-32B4CB70AF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497A442B-932F-4CA7-8B65-32B4CB70AF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497A442B-932F-4CA7-8B65-32B4CB70AF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497A442B-932F-4CA7-8B65-32B4CB70AF34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
