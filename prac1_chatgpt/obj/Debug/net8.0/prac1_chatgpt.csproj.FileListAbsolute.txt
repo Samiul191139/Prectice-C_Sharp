@@ -1,0 +1,15 @@
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.AssemblyInfoInputs.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.AssemblyInfo.cs
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.csproj.CoreCompileInputs.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.sourcelink.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\bin\Debug\net8.0\prac1_chatgpt.exe
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\bin\Debug\net8.0\prac1_chatgpt.deps.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\bin\Debug\net8.0\prac1_chatgpt.runtimeconfig.json
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\bin\Debug\net8.0\prac1_chatgpt.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\bin\Debug\net8.0\prac1_chatgpt.pdb
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\refint\prac1_chatgpt.dll
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.pdb
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\prac1_chatgpt.genruntimeconfig.cache
+C:\Users\Puri_Sama\Documents\Uni works\7th semester\CSC 430_440 (visual)\prac1_chatgpt\obj\Debug\net8.0\ref\prac1_chatgpt.dll
